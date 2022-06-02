@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-01T16:10:04Z" name="Default suite" finished-at="2022-06-01T16:10:10Z" duration-ms="6551">
+    <groups>
+    </groups>
+    <test started-at="2022-06-01T16:10:04Z" name="Default test" finished-at="2022-06-01T16:10:10Z" duration-ms="6551">
+      <class name="API_TESTING.project_1.TestCases">
+        <test-method is-config="true" signature="setSpecification()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:04Z" name="setSpecification" finished-at="2022-06-01T16:10:04Z" duration-ms="627" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setSpecification -->
+        <test-method signature="testCreateUser()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:04Z" name="testCreateUser" finished-at="2022-06-01T16:10:06Z" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCreateUser -->
+        <test-method signature="testFetchUser()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:06Z" name="testFetchUser" finished-at="2022-06-01T16:10:07Z" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFetchUser -->
+        <test-method signature="testGetUserList()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:07Z" name="testGetUserList" finished-at="2022-06-01T16:10:08Z" duration-ms="980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetUserList -->
+        <test-method signature="testLoginUserSuccessful()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:08Z" name="testLoginUserSuccessful" finished-at="2022-06-01T16:10:09Z" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUserSuccessful -->
+        <test-method signature="testLoginUserUnsuccessful()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:09Z" name="testLoginUserUnsuccessful" finished-at="2022-06-01T16:10:09Z" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginUserUnsuccessful -->
+        <test-method signature="testRegisterUser()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:09Z" name="testRegisterUser" finished-at="2022-06-01T16:10:10Z" duration-ms="667" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testRegisterUser -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:API_TESTING.project_1.TestCases@7aaca91a]" started-at="2022-06-01T16:10:10Z" name="closeReport" finished-at="2022-06-01T16:10:10Z" duration-ms="167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- API_TESTING.project_1.TestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
